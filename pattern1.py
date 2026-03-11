@@ -12,3 +12,11 @@ for i in range(1,num+1):
 print("------------Reverse TRIANGLE-------------")
 for i in range(num,0,-1):
     print(' '*(num-i)+'* '*i)
+
+
+    print("------------daimond-------------")
+for i in range(1,num+1):
+    print(" "*(num-i)+'* '*i)
+
+for i in range(num,0,-1):
+    print(' '*(num-i)+'* '*i)
